@@ -3,7 +3,7 @@
         {
             "id": 1,
             "nome": "Teste",
-            "url": "./api/img/fotoPerfil.jpg",
+            "url": "./img/fotoPerfil.jpg",
             "link": "https://google.com"
         }
     ]
